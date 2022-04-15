@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import os
 
+
 def click(): 
     if 0 < var.get() <= 480:
         os.system("shutdown /s /t {}".format(var.get()*60))
@@ -10,7 +11,6 @@ def click():
     else:
         mesaj="Something went wrong!"
         messagebox.showwarning("Warring",mesaj)
-
 
 master = Tk()
 master.title("Timed Shutdown")
