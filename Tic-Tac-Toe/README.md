@@ -11,5 +11,4 @@
   Oyun bilgisayara karşı oynanır. <br> 
   Denemek için exe dosyasını kullanabilirsiniz.
 </p> <br>
-
-<img src="Png/XOX.png" alt="Calculator" width="400" height="400">
+![XOX](https://user-images.githubusercontent.com/94441940/163592255-90601dc7-f35d-4b80-a625-882a7d2fd2be.png)
