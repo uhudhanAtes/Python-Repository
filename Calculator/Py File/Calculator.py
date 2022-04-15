@@ -16,6 +16,7 @@ def total():
 
 master = Tk()
 master.title("Calculator")
+master.resizable(False, False)
 master.configure(background='lemon chiffon')
 
 canvas = Canvas(master, bg='lemon chiffon', height = 500, width = 500)

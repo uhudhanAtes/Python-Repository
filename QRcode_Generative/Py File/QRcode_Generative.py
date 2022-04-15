@@ -24,6 +24,7 @@ def clear():
 
 master = Tk()
 master.title("QR code")
+master.resizable(False, False)
 
 maincolor = "snow2"
 secondcolor = "snow"

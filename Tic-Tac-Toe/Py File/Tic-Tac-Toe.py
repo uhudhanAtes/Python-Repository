@@ -75,6 +75,7 @@ def ToWin():
 
 master = Tk()
 master.title("X O X")
+master.resizable(False, False)
 
 myfont = font.Font(family='Arial', size=40, weight='bold') 
 maincolor = 'peach puff'
