@@ -21,7 +21,6 @@ def clear():
         login.delete(0,END)
 
 
-
 master = Tk()
 master.title("QR code")
 master.resizable(False, False)
