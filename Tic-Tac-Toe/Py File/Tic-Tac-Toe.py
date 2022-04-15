@@ -21,7 +21,6 @@ def x(num):
     if key<8: o(num)
     else: pass
 
-
 def o(num):
     b_list = (button0, button1, button2, button3, button4, button5, button6, button7, button8)
     b_temp = b_list[num]
@@ -36,7 +35,6 @@ def o(num):
     b_temp["state"] = DISABLED
 
     ToWin()
-
 
 def ToWin():
     b_list = (button0, button1, button2, button3, button4, button5, button6, button7, button8)
