@@ -9,5 +9,4 @@
   Denemek için exe dosyasını kullanabilirsiniz.
 </p> <br>
 
-
-<img src="Png/Calculator.png" alt="Calculator" width="500" height="500">
+![Calculator](https://user-images.githubusercontent.com/94441940/163591996-1befebca-f4e6-4bf4-832a-06a0ba9091da.png)

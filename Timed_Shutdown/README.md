@@ -12,4 +12,4 @@
   Denemek için exe dosyasını kullanabilirsiniz.
 </p> <br>
 
-<img src="Png/Time_Shutdown.png" alt="Calculator" width="550" height="300">
+![Time_Shutdown](https://user-images.githubusercontent.com/94441940/163592407-7fa3bb5e-0458-44ea-b546-edfb59e2fc7c.png)

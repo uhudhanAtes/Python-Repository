@@ -12,4 +12,4 @@
   Denemek için exe dosyasını kullanabilirsiniz.
 </p> <br>
 
-<img src="Png/XOX.png" alt="Calculator" width="400" height="400">
+![XOX](https://user-images.githubusercontent.com/94441940/163592302-1086e29a-236b-4f72-8b49-b320f874277f.png)
