@@ -12,8 +12,6 @@ def total():
         ekran.delete(0, END)
         ekran.insert(0, str(round(top,4)))
 
-
-
 master = Tk()
 master.title("Calculator")
 master.resizable(False, False)
