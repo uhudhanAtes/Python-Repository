@@ -9,6 +9,5 @@
   URL'yi qr koduna dönüştüren masaüstü uygulaması. <br>
   URL'yi ekrana girdikten sonra, QR kodu masaüstüne png olarak <br> kaydedilecektir. Denemek için exe dosyasını kullanabilirsiniz.
 </p> <br>
-
-
-<img src="Png/QR_code.png" alt="Calculator" width="500" height="200">
+    
+![QR_code](https://user-images.githubusercontent.com/94441940/163592151-96f3d4a2-bed6-4c06-aa78-201cab93a953.png)
